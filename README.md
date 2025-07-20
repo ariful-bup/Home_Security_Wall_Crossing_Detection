@@ -5,4 +5,5 @@ Smart Home Automation (SHA) has significantly enhanced homes’ convenience, com
 
 
 
+![Models_Curves](https://github.com/user-attachments/assets/a9659427-3cb7-46bb-8bea-8886117ae097)
 
